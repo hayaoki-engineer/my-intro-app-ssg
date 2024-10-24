@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-intro-app-ssg/static/css/main.e6c13ad2.css",
+    "main.js": "/my-intro-app-ssg/static/js/main.dce12f91.js",
+    "static/js/453.3940bdee.chunk.js": "/my-intro-app-ssg/static/js/453.3940bdee.chunk.js",
+    "index.html": "/my-intro-app-ssg/index.html",
+    "main.e6c13ad2.css.map": "/my-intro-app-ssg/static/css/main.e6c13ad2.css.map",
+    "main.dce12f91.js.map": "/my-intro-app-ssg/static/js/main.dce12f91.js.map",
+    "453.3940bdee.chunk.js.map": "/my-intro-app-ssg/static/js/453.3940bdee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dce12f91.js"
+  ]
+}
